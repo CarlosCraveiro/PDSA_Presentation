@@ -32,8 +32,9 @@ typst compile main.typ
 Agora você deve ter um `main.pdf` para olhar!
 
 ## Autores
+
 | Estudante                             |  Nº USP  |
-|------------------------------------------------- |
+|---------------------------------------|--------- |
 | Carlos Henrique Craveiro Aquino Veras | 12547187 |
 | Pedro Oliveira Torrente               | 11798853 |
 
